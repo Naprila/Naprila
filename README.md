@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Naprila
+- [![@napri's Holopin board](https://holopin.me/napri)](https://holopin.io/@napri)
 - 👀 I’m interested in Programming and Web Development.
 - 🌱 I’m currently learning Web development.
-- 💞️ I’m looking to collaborate on projects that require a begginer like me, that will take my skills to a level further.
+- 💞️ I’m looking to collaborate on projects that require a beginner like me, that will take my skills to a level further.
 - 📫 How to reach me -- via email - manishhh821@gmail.com or instagram - napri_99
+
+
 
 <!---
 Naprila/Naprila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
